@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Base directories for backup and application settings
-backupDir=~/MidiCoSettingsBackup
+backupDir=~/Projects/midico-karaoke-settings-backup/backups
 libraryDir=~/Library
 
 # Application-specific paths relative to ~/Library
